@@ -14,6 +14,7 @@
 		5DD8C5DA2AA5EBCF00980C39 /* CPlusPlussinSwiftuiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DD8C5D92AA5EBCF00980C39 /* CPlusPlussinSwiftuiTests.swift */; };
 		5DD8C5E42AA5EBCF00980C39 /* CPlusPlussinSwiftuiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DD8C5E32AA5EBCF00980C39 /* CPlusPlussinSwiftuiUITests.swift */; };
 		5DD8C5E62AA5EBCF00980C39 /* CPlusPlussinSwiftuiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DD8C5E52AA5EBCF00980C39 /* CPlusPlussinSwiftuiUITestsLaunchTests.swift */; };
+		5DD8C5F52AA5EC0D00980C39 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5DD8C5F32AA5EC0C00980C39 /* main.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,9 @@
 		5DD8C5DF2AA5EBCF00980C39 /* CPlusPlussinSwiftuiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CPlusPlussinSwiftuiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DD8C5E32AA5EBCF00980C39 /* CPlusPlussinSwiftuiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CPlusPlussinSwiftuiUITests.swift; sourceTree = "<group>"; };
 		5DD8C5E52AA5EBCF00980C39 /* CPlusPlussinSwiftuiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CPlusPlussinSwiftuiUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5DD8C5F22AA5EC0B00980C39 /* CPlusPlussinSwiftui-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CPlusPlussinSwiftui-Bridging-Header.h"; sourceTree = "<group>"; };
+		5DD8C5F32AA5EC0C00980C39 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5DD8C5F42AA5EC0C00980C39 /* main.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = main.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +102,9 @@
 				5DD8C5CA2AA5EBC300980C39 /* ContentView.swift */,
 				5DD8C5CC2AA5EBCE00980C39 /* Assets.xcassets */,
 				5DD8C5CE2AA5EBCE00980C39 /* Preview Content */,
+				5DD8C5F32AA5EC0C00980C39 /* main.cpp */,
+				5DD8C5F42AA5EC0C00980C39 /* main.h */,
+				5DD8C5F22AA5EC0B00980C39 /* CPlusPlussinSwiftui-Bridging-Header.h */,
 			);
 			path = CPlusPlussinSwiftui;
 			sourceTree = "<group>";
@@ -195,6 +202,7 @@
 				TargetAttributes = {
 					5DD8C5C42AA5EBC300980C39 = {
 						CreatedOnToolsVersion = 15.0;
+						LastSwiftMigration = 1500;
 					};
 					5DD8C5D42AA5EBCF00980C39 = {
 						CreatedOnToolsVersion = 15.0;
@@ -259,6 +267,7 @@
 			files = (
 				5DD8C5CB2AA5EBC300980C39 /* ContentView.swift in Sources */,
 				5DD8C5C92AA5EBC300980C39 /* CPlusPlussinSwiftuiApp.swift in Sources */,
+				5DD8C5F52AA5EC0D00980C39 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -419,6 +428,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"CPlusPlussinSwiftui/Preview Content\"";
@@ -438,6 +448,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = KamsQue.CPlusPlussinSwiftui;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "CPlusPlussinSwiftui/CPlusPlussinSwiftui-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -448,6 +460,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"CPlusPlussinSwiftui/Preview Content\"";
@@ -467,6 +480,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = KamsQue.CPlusPlussinSwiftui;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "CPlusPlussinSwiftui/CPlusPlussinSwiftui-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
