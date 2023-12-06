@@ -7,7 +7,7 @@
 
 #include "main.h"
 
-
-const char* test(){
-  return "C++ Code is Called";
+// External C function definition
+const char* test() {
+    return "C++ Code is Called";
 }

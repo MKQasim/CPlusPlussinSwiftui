@@ -15,6 +15,8 @@
 		5DD8C5E42AA5EBCF00980C39 /* CPlusPlussinSwiftuiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DD8C5E32AA5EBCF00980C39 /* CPlusPlussinSwiftuiUITests.swift */; };
 		5DD8C5E62AA5EBCF00980C39 /* CPlusPlussinSwiftuiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DD8C5E52AA5EBCF00980C39 /* CPlusPlussinSwiftuiUITestsLaunchTests.swift */; };
 		5DD8C5F52AA5EC0D00980C39 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5DD8C5F32AA5EC0C00980C39 /* main.cpp */; };
+		C9F5E2F82B204C0B00964AF0 /* PrayTime.m in Sources */ = {isa = PBXBuildFile; fileRef = C9F5E2F72B204C0B00964AF0 /* PrayTime.m */; };
+		C9F5E2FC2B20753000964AF0 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = C9F5E2FA2B20704E00964AF0 /* data.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +50,9 @@
 		5DD8C5F22AA5EC0B00980C39 /* CPlusPlussinSwiftui-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CPlusPlussinSwiftui-Bridging-Header.h"; sourceTree = "<group>"; };
 		5DD8C5F32AA5EC0C00980C39 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		5DD8C5F42AA5EC0C00980C39 /* main.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = main.h; sourceTree = "<group>"; };
+		C9F5E2F72B204C0B00964AF0 /* PrayTime.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PrayTime.m; sourceTree = "<group>"; };
+		C9F5E2F92B204C6C00964AF0 /* PrayTime.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrayTime.h; sourceTree = "<group>"; };
+		C9F5E2FA2B20704E00964AF0 /* data.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,11 +105,14 @@
 			children = (
 				5DD8C5C82AA5EBC300980C39 /* CPlusPlussinSwiftuiApp.swift */,
 				5DD8C5CA2AA5EBC300980C39 /* ContentView.swift */,
+				C9F5E2FA2B20704E00964AF0 /* data.json */,
 				5DD8C5CC2AA5EBCE00980C39 /* Assets.xcassets */,
 				5DD8C5CE2AA5EBCE00980C39 /* Preview Content */,
 				5DD8C5F32AA5EC0C00980C39 /* main.cpp */,
 				5DD8C5F42AA5EC0C00980C39 /* main.h */,
 				5DD8C5F22AA5EC0B00980C39 /* CPlusPlussinSwiftui-Bridging-Header.h */,
+				C9F5E2F72B204C0B00964AF0 /* PrayTime.m */,
+				C9F5E2F92B204C6C00964AF0 /* PrayTime.h */,
 			);
 			path = CPlusPlussinSwiftui;
 			sourceTree = "<group>";
@@ -239,6 +247,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C9F5E2FC2B20753000964AF0 /* data.json in Resources */,
 				5DD8C5D02AA5EBCE00980C39 /* Preview Assets.xcassets in Resources */,
 				5DD8C5CD2AA5EBCE00980C39 /* Assets.xcassets in Resources */,
 			);
@@ -265,6 +274,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C9F5E2F82B204C0B00964AF0 /* PrayTime.m in Sources */,
 				5DD8C5CB2AA5EBC300980C39 /* ContentView.swift in Sources */,
 				5DD8C5C92AA5EBC300980C39 /* CPlusPlussinSwiftuiApp.swift in Sources */,
 				5DD8C5F52AA5EC0D00980C39 /* main.cpp in Sources */,
@@ -313,7 +323,7 @@
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
 				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_ARC = NO;
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
@@ -376,7 +386,7 @@
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
 				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_ARC = NO;
 				CLANG_ENABLE_OBJC_WEAK = YES;
 				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;

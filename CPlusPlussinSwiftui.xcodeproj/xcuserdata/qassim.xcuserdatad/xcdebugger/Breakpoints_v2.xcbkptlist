@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "38E2F90E-14E0-4DB6-8A81-AC5D382E80EC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E54F5F0-68A9-4CDE-AE3A-E8DEDAB9D07E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CPlusPlussinSwiftui/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "parseLocalJSON()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4E54F5F0-68A9-4CDE-AE3A-E8DEDAB9D07E - e78bf073ca8290a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CPlusPlussinSwiftui.ContentView.parseLocalJSON() -&gt; ()"
+                  moduleName = "CPlusPlussinSwiftui"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qassim/Documents/CPlusPlussinSwiftui/CPlusPlussinSwiftui/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "2080">
+               </Location>
+               <Location
+                  uuid = "4E54F5F0-68A9-4CDE-AE3A-E8DEDAB9D07E - e78bf073ca8290a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CPlusPlussinSwiftui.ContentView.parseLocalJSON() -&gt; ()"
+                  moduleName = "CPlusPlussinSwiftui"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qassim/Documents/CPlusPlussinSwiftui/CPlusPlussinSwiftui/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "2048">
+               </Location>
+               <Location
+                  uuid = "4E54F5F0-68A9-4CDE-AE3A-E8DEDAB9D07E - e78bf073ca8290a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CPlusPlussinSwiftui.ContentView.parseLocalJSON() -&gt; ()"
+                  moduleName = "CPlusPlussinSwiftui"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qassim/Documents/CPlusPlussinSwiftui/CPlusPlussinSwiftui/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "2388">
+               </Location>
+               <Location
+                  uuid = "4E54F5F0-68A9-4CDE-AE3A-E8DEDAB9D07E - e78bf073ca8290a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CPlusPlussinSwiftui.ContentView.parseLocalJSON() -&gt; ()"
+                  moduleName = "CPlusPlussinSwiftui"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qassim/Documents/CPlusPlussinSwiftui/CPlusPlussinSwiftui/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "2416">
+               </Location>
+               <Location
+                  uuid = "4E54F5F0-68A9-4CDE-AE3A-E8DEDAB9D07E - e78bf073ca8290a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CPlusPlussinSwiftui.ContentView.parseLocalJSON() -&gt; ()"
+                  moduleName = "CPlusPlussinSwiftui"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qassim/Documents/CPlusPlussinSwiftui/CPlusPlussinSwiftui/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "1592">
+               </Location>
+               <Location
+                  uuid = "4E54F5F0-68A9-4CDE-AE3A-E8DEDAB9D07E - e78bf073ca8290a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CPlusPlussinSwiftui.ContentView.parseLocalJSON() -&gt; ()"
+                  moduleName = "CPlusPlussinSwiftui"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qassim/Documents/CPlusPlussinSwiftui/CPlusPlussinSwiftui/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "2088">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E7644AD-9618-46DF-9FA4-4EE5AAFA4B96"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CPlusPlussinSwiftui/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "parseLocalJSON()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1E7644AD-9618-46DF-9FA4-4EE5AAFA4B96 - e78bf073ca82913b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CPlusPlussinSwiftui.ContentView.parseLocalJSON() -&gt; ()"
+                  moduleName = "CPlusPlussinSwiftui"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qassim/Documents/CPlusPlussinSwiftui/CPlusPlussinSwiftui/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "2780">
+               </Location>
+               <Location
+                  uuid = "1E7644AD-9618-46DF-9FA4-4EE5AAFA4B96 - e78bf073ca82913b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CPlusPlussinSwiftui.ContentView.parseLocalJSON() -&gt; ()"
+                  moduleName = "CPlusPlussinSwiftui"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qassim/Documents/CPlusPlussinSwiftui/CPlusPlussinSwiftui/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1944">
+               </Location>
+               <Location
+                  uuid = "1E7644AD-9618-46DF-9FA4-4EE5AAFA4B96 - e78bf073ca82913b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CPlusPlussinSwiftui.ContentView.parseLocalJSON() -&gt; ()"
+                  moduleName = "CPlusPlussinSwiftui"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qassim/Documents/CPlusPlussinSwiftui/CPlusPlussinSwiftui/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "2452">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A788E765-F731-4B18-AEA3-F7126066D945"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CPlusPlussinSwiftui/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "parseLocalJSON()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A788E765-F731-4B18-AEA3-F7126066D945 - e78bf073ca8291fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CPlusPlussinSwiftui.ContentView.parseLocalJSON() -&gt; ()"
+                  moduleName = "CPlusPlussinSwiftui"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qassim/Documents/CPlusPlussinSwiftui/CPlusPlussinSwiftui/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1824">
+               </Location>
+               <Location
+                  uuid = "A788E765-F731-4B18-AEA3-F7126066D945 - e78bf073ca8291fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CPlusPlussinSwiftui.ContentView.parseLocalJSON() -&gt; ()"
+                  moduleName = "CPlusPlussinSwiftui"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qassim/Documents/CPlusPlussinSwiftui/CPlusPlussinSwiftui/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1288">
+               </Location>
+               <Location
+                  uuid = "A788E765-F731-4B18-AEA3-F7126066D945 - e78bf073ca8291fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CPlusPlussinSwiftui.ContentView.parseLocalJSON() -&gt; ()"
+                  moduleName = "CPlusPlussinSwiftui"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qassim/Documents/CPlusPlussinSwiftui/CPlusPlussinSwiftui/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
